@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "078688fc33118617",
+    "type": "split",
+    "children": [
+      {
+        "id": "a416cf4896ef21e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb3eba5a6e91ad2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b71b9a425de954d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58904916faa90056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/Algorithm/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8618e77ee7fca31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/Computer Science/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b993ecf7b4dd6844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/Language/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05a028aaeb3c6834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/Philosophy/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b2bc75818842d99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/Philosophy/Design Pattern/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98deb74cf6616c7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/Philosophy/OOP/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "096fdbac65c059cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b95eec84dd32e19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4466782e41295853",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c849b3a1f7ebea41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64dd01289e9c8842",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "684a63acf898b0dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c430dff397c11a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebb046b2f19803e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2333bf6923e02848",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98096a773de65c80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a75a868ba4a32cdf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/Welcome.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a75a868ba4a32cdf",
+  "lastOpenFiles": [
+    "wiki/Philosophy/Design Pattern/_index.md",
+    "wiki/Philosophy/_index.md",
+    "wiki/Language/_index.md",
+    "wiki/Computer Science/_index.md",
+    "wiki/Algorithm/_index.md",
+    "wiki/_index.md",
+    "wiki/Welcome.md",
+    "wiki/Philosophy/OOP/SOLID.md",
+    "wiki/Philosophy/OOP/Single responsibility principle.md",
+    "wiki/Philosophy/OOP/Open-closed principle.md"
+  ]
+}
