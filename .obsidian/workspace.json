@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Welcome.md",
+                "file": "docs/Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/_index.md",
+                "file": "docs/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Algorithm/_index.md",
+                "file": "docs/Algorithm/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Computer Science/_index.md",
+                "file": "docs/Computer Science/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Language/_index.md",
+                "file": "docs/Language/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Philosophy/_index.md",
+                "file": "docs/Philosophy/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Philosophy/Design Pattern/_index.md",
+                "file": "docs/Philosophy/Design Pattern/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Philosophy/OOP/_index.md",
+                "file": "docs/Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Welcome.md",
+                "file": "docs/Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/Welcome.md",
+                "file": "docs/Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,28 +210,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/Welcome.md"
+                "file": "docs/Welcome.md"
               }
+            }
+          },
+          {
+            "id": "93a68636daaad138",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a75a868ba4a32cdf",
+  "active": "98deb74cf6616c7d",
   "lastOpenFiles": [
-    "wiki/Philosophy/Design Pattern/_index.md",
-    "wiki/Philosophy/_index.md",
-    "wiki/Language/_index.md",
-    "wiki/Computer Science/_index.md",
-    "wiki/Algorithm/_index.md",
-    "wiki/_index.md",
-    "wiki/Welcome.md",
-    "wiki/Philosophy/OOP/SOLID.md",
-    "wiki/Philosophy/OOP/Single responsibility principle.md",
-    "wiki/Philosophy/OOP/Open-closed principle.md"
+    "docs/Philosophy/OOP/_index.md",
+    "docs/Welcome.md",
+    "docs/Philosophy/Design Pattern/_index.md",
+    "docs/Philosophy/_index.md",
+    "docs/Language/_index.md",
+    "docs/Computer Science/_index.md",
+    "docs/Algorithm/_index.md",
+    "docs/_index.md",
+    "docs/Philosophy/OOP/SOLID.md",
+    "docs/Philosophy/OOP/Single responsibility principle.md"
   ]
 }
